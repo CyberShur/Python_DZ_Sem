@@ -15,6 +15,3 @@ result = max(count) - min(count)
 
 print(result)
 
-'''
-count = [ for i in list if i % 1 != 0]
-'''
